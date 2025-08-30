@@ -15,7 +15,7 @@ close all;
 % Read and Pre-process Image
 % Define a sample image file path
 % Replace this with the actual path to your image image (image should be in imdata folder)
-image_path = fullfile('sample_images', 'me.jpg');
+image_path = fullfile('complete_path_to_image', 'sample_image.jpg');
 
 % Read the image from the specified path
 img = imread(image_path);
