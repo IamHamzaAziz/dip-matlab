@@ -6,7 +6,7 @@ This repository showcases foundational concepts in digital image processing, imp
 
 ### image-grayscale-and-histogram.m
 
-This script demonstrates basic image manipulation and analysis. It covers the following core functionalities:
+This script demonstrates image manipulation and analysis. It covers the following core functionalities:
 
 - **Image Loading and Display:** Reads and visualizes an input image.
 - **Grayscale Conversion:** Converts a color image to its grayscale equivalent.
