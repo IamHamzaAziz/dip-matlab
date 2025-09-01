@@ -4,7 +4,7 @@ This repository showcases foundational concepts in digital image processing, imp
 
 ## Project Files
 
-1. image-grayscale-and-histogram.m
+### image-grayscale-and-histogram.m
 
 This script demonstrates basic image manipulation and analysis. It covers the following core functionalities:
 
@@ -12,7 +12,7 @@ This script demonstrates basic image manipulation and analysis. It covers the fo
 - **Grayscale Conversion:** Converts a color image to its grayscale equivalent.
 - **Intensity Histogram:** Computes and plots the intensity histogram, providing insight into the image's tonal distribution.
 
-2. image-segmentation-and-edge-detection.m
+### image-segmentation-and-edge-detection.m
 
 This script delves into more advanced image analysis techniques, focusing on segmentation and edge detection. It includes implementations of:
 
